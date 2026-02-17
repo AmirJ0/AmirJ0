@@ -1,4 +1,4 @@
-# Hi ✋ This is Amir!
+# Hi 👋 This is Amir!
 #### Newbie programmer/developer interested in programs and codes 🧑‍💻
 
 ## About me 🟩
@@ -14,7 +14,7 @@ And, more important, I will graduate soon, so I do not have much time for this, 
 
 ## Technical Skills ⚙️
 ### Languages
-![Static Badge](https://img.shields.io/badge/Python_Core-Leraning-white?style=for-the-badge&logo=python&logoColor=%23fff9de&logoSize=auto&labelColor=%235c5c5c&color=%23fff9de) 
+![Static Badge](https://img.shields.io/badge/Python_Core-Learning-white?style=for-the-badge&logo=python&logoColor=%23fff9de&logoSize=auto&labelColor=%235c5c5c&color=%23fff9de) 
 ![Static Badge](https://img.shields.io/badge/Visited-Java%2C_HTML--CSS--JS%2C_C%23-white?style=for-the-badge&logoColor=%23fff9de&logoSize=auto&labelColor=%235c5c5c&color=%23fff9de)
 ### Tools
 ![Static Badge](https://img.shields.io/badge/Tools-Git%2C_VSCode%2C_IDE-white?style=for-the-badge&logoColor=%23fff9de&logoSize=auto&labelColor=%235c5c5c&color=%23fff9de)
