@@ -26,16 +26,17 @@ And, more important, I will graduate soon, so I do not have much time for this, 
 - Exercising new codes
 
 ## Coding Goals 🕸️
-- Build short project (3 tiers) of learning python script/app
-- Build regular app as final learning project
-- Learn more about Python library and use them well
+- Build a short project (3 tiers) of learning python script/app
+- Build a regular app as a final learning project
+- Learn more about Python libraries and use them well
 - Web-Based platform with python server-side language (or other languages)
 - Computers or Mobile apps
 - Learn more useful languages
 
 ## Contact 📞
-#### - 📧 <a href="mailto:amirj0.dev@gmail.com" title="AmirJ0">My E-Mail</a>
+<a href="mailto:amirj0.dev@gmail.com" title="AmirJ0">![Static Badge](https://img.shields.io/badge/E--Mail-AmirJ0.dev%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=%235C5C5C&color=%23EA4335)</a>
 
-## Outro ➡️
-It's not all. It's a short way to introduce myself because I don't have much thing to present, for now ...
+
+## Notes ➡️
+It's not all. It's a short way to introduce myself, because I don't have much thing to present, for now ...
 I will create some project here as soon as possible, and thanks for your support ☺️
